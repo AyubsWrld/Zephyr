@@ -1,6 +1,6 @@
 # Zephyr
 
-A High-Performance C++ Web Framework.
+a lightweight, flexible, and easy-to-use C++ microframework for building web applications
 
 ### Project Structure
 
