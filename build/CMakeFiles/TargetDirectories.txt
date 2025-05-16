@@ -1,0 +1,3 @@
+/Users/ayubmohamed/Desktop/Zephyr/build/CMakeFiles/main.dir
+/Users/ayubmohamed/Desktop/Zephyr/build/CMakeFiles/edit_cache.dir
+/Users/ayubmohamed/Desktop/Zephyr/build/CMakeFiles/rebuild_cache.dir
