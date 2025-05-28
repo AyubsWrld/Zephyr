@@ -1,3 +1,12 @@
 /mnt/e/Zephyr/build/CMakeFiles/main.dir
 /mnt/e/Zephyr/build/CMakeFiles/edit_cache.dir
 /mnt/e/Zephyr/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/Zephyr/build/lib/serialize/CMakeFiles/libserialize.dir
+/mnt/e/Zephyr/build/lib/serialize/CMakeFiles/edit_cache.dir
+/mnt/e/Zephyr/build/lib/serialize/CMakeFiles/rebuild_cache.dir
+/mnt/e/Zephyr/build/lib/server/CMakeFiles/libserver.dir
+/mnt/e/Zephyr/build/lib/server/CMakeFiles/edit_cache.dir
+/mnt/e/Zephyr/build/lib/server/CMakeFiles/rebuild_cache.dir
+/mnt/e/Zephyr/build/lib/events/CMakeFiles/libevents.dir
+/mnt/e/Zephyr/build/lib/events/CMakeFiles/edit_cache.dir
+/mnt/e/Zephyr/build/lib/events/CMakeFiles/rebuild_cache.dir

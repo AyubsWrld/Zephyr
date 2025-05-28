@@ -4,7 +4,7 @@
 # compile CXX with /usr/sbin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/mnt/e/Zephyr/include/serialize -I/mnt/e/Zephyr/include/server -I/mnt/e/Zephyr/include/events
 
 CXX_FLAGS = 
 

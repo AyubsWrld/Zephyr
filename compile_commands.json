@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/mnt/e/Zephyr/build",
+  "command": "/usr/sbin/c++  -I/mnt/e/Zephyr/include/serialize  -o CMakeFiles/main.dir/src/main.cpp.o -c /mnt/e/Zephyr/src/main.cpp",
+  "file": "/mnt/e/Zephyr/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/e/Zephyr/build/lib/serialize",
+  "command": "/usr/sbin/c++  -I/mnt/e/Zephyr/include/serialize  -o CMakeFiles/libserialize.dir/z_serialize.cpp.o -c /mnt/e/Zephyr/lib/serialize/z_serialize.cpp",
+  "file": "/mnt/e/Zephyr/lib/serialize/z_serialize.cpp",
+  "output": "lib/serialize/CMakeFiles/libserialize.dir/z_serialize.cpp.o"
+}
+]

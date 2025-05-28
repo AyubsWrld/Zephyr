@@ -129,6 +129,45 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
+#=============================================================================
+# Target rules for targets named libserialize
+
+# Build rule for target.
+libserialize: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 libserialize
+.PHONY : libserialize
+
+# fast build rule for target.
+libserialize/fast:
+	$(MAKE) $(MAKESILENT) -f lib/serialize/CMakeFiles/libserialize.dir/build.make lib/serialize/CMakeFiles/libserialize.dir/build
+.PHONY : libserialize/fast
+
+#=============================================================================
+# Target rules for targets named libserver
+
+# Build rule for target.
+libserver: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 libserver
+.PHONY : libserver
+
+# fast build rule for target.
+libserver/fast:
+	$(MAKE) $(MAKESILENT) -f lib/server/CMakeFiles/libserver.dir/build.make lib/server/CMakeFiles/libserver.dir/build
+.PHONY : libserver/fast
+
+#=============================================================================
+# Target rules for targets named libevents
+
+# Build rule for target.
+libevents: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 libevents
+.PHONY : libevents
+
+# fast build rule for target.
+libevents/fast:
+	$(MAKE) $(MAKESILENT) -f lib/events/CMakeFiles/libevents.dir/build.make lib/events/CMakeFiles/libevents.dir/build
+.PHONY : libevents/fast
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -161,6 +200,9 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... libevents"
+	@echo "... libserialize"
+	@echo "... libserver"
 	@echo "... main"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
